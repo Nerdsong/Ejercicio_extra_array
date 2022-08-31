@@ -19,9 +19,6 @@ let imagenesProductosAgregados=[
 var nombreProductosAgregadosUsuario =[]
 var imagenesProductosAgregadosUsuario=[]
 
-let actualizar = "actualiza";
-let inicio = "nada";
-
 
 //Esta función intercala los arrays para que queden en formato orden: nombre1, imagen1, nombre2, imagen2
 function intercalarArrays(nombre,imagen){
